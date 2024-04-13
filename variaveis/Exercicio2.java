@@ -7,7 +7,10 @@
 public class Exercicio2 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
+    double laranja = 6.90;
+    double uva = 9.99;
+    double soma = laranja + uva;
 
-        
+        System.out.Println("O resultado da soma é:" + soma);
     }
 }
